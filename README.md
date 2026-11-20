@@ -177,5 +177,4 @@ Jahnavi, E., E. Chandrasekhar, and P. Chandrasekhar. "Design of 4-bit Binary Wei
 **Technology:** 90nm CMOS (gpdk090)  
 **EDA Platform:** Cadence Virtuoso  
 **Course:** Introduction to VLSI  
-**Domain:** VLSI Design and Analog Integrated Circuits
 
