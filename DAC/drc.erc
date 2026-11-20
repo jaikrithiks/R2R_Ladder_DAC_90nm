@@ -1,0 +1,16 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'r2rdac layout DAC':
+  info: Assign pin label "gnd!" at (2.8600, 2.8600) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (119.7600, 92.5600) to layer `Metal1_p'.
+  info: Assign pin label "d0" at (20.1600, 195.2600) to layer `Metal1_p'.
+  info: Assign pin label "d1" at (41.3600, 195.2600) to layer `Metal1_p'.
+  info: Assign pin label "vss" at (127.3600, 135.0600) to layer `Metal1_p'.
+  info: Assign pin label "d2" at (67.7600, 195.2600) to layer `Metal1_p'.
+  info: Assign pin label "idc" at (141.8600, 139.5600) to layer `Metal1_p'.
+  info: Assign pin label "d3" at (94.1600, 195.2600) to layer `Metal1_p'.
+  info: Assign pin label "vout" at (195.2600, 97.6600) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,57 @@
+[ADE GUI: 41179203-9888-4012-a1c5-f2bd69786b2e]
+[2026-09-24 15:49:18.654 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftLoggingService0 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService0.log"}
+[2026-09-24 15:49:18.654 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftNetlistService1 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service1.log"}
+[2026-09-24 15:49:18.654 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '231411' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService0.log"}
+[2026-09-24 15:49:19.270 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '231475' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service1.log"}
+[2026-09-24 15:52:30.824 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '231411' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService0.log"}
+[2026-09-24 16:16:37.367 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftLoggingService2 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService2.log"}
+[2026-09-24 16:16:37.367 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftNetlistService3 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service3.log"}
+[2026-09-24 16:16:37.367 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '270621' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService2.log"}
+[2026-09-24 16:16:37.367 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '270692' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service3.log"}
+[2026-09-24 16:21:41.687 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '270692' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service3.log"}
+[2026-09-24 16:22:18.740 +0530] [WARN] [cadence.virtuoso.ade.gui] - Following tests do not have any outputs selected for plotting:
+DAC_r2rdac_tb_1
+ {"detailed_message": "", "message_id": "EXPLORER-1617"}
+[2026-09-24 16:23:09.723 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '270621' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService2.log"}
+[2026-09-24 16:23:21.790 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftLoggingService4 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService4.log"}
+[2026-09-24 16:23:21.790 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftNetlistService5 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service5.log"}
+[2026-09-24 16:23:21.790 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '281654' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService4.log"}
+[2026-09-24 16:23:22.215 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '281725' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service5.log"}
+[2026-09-24 16:28:27.123 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '281725' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service5.log"}
+[2026-09-24 16:38:34.580 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '281654' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService4.log"}
+[2026-09-24 16:45:45.991 +0530] [WARN] [cadence.virtuoso.ade.gui] - Following tests do not have any outputs selected for plotting:
+DAC_r2rdac_tb_1
+ {"detailed_message": "", "message_id": "EXPLORER-1617"}
+[2026-09-24 16:45:46.062 +0530] [EVENT] [cadence.virtuoso.ade.gui] - NewHistoryCreated {"history": "ExplorerRun.0", "event": "NewHistoryCreated", "EventSource": "ADE GUI", "HistoryName": "ExplorerRun.0", "WorkDir": "/home/vlsilab/Documents/jai/DAC", "HistorySimDir": "/home/vlsilab/simulation/DAC/r2rdac_tb/maestro/results/maestro/ExplorerRun.0", "HistoryResultsDir": "/home/vlsilab/Documents/jai/DAC/DAC/r2rdac_tb/maestro/results/maestro"}
+[2026-09-24 16:45:46.062 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - History Setup {"hostname": "cad6", "processid": 27906, "history": "ExplorerRun.0", "logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/virtuoso_ade_debug.log", "jobmode": "LSCS", "runmode": "Single Run, Sweeps and Corners", "lib": "DAC", "cell": "r2rdac_tb", "view": "maestro", "icversion": "sub-version  IC6.1.8-64b.500.29 ", "runstart": "Thu Sep 24 16:45:46 2026\n", "timezonelocal": "+000", "spectreversion": "unknown", "jobpolicyname": "", "maxjobs": "unknown", "ncjobpolicyname": "", "ncmaxjobs": "unknown", "numtests": "1", "runfinished": "unknown", "runelapsed": "-1", "numcorners": "3"}
+[2026-09-24 16:45:46.062 +0530] [INFO] [cadence.virtuoso.ade.pointevaluator] - Submitted {"history": "ExplorerRun.0"}
+[2026-09-24 16:45:51.313 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftLoggingService6 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService6.log"}
+[2026-09-24 16:45:51.313 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftNetlistService7 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service7.log"}
+[2026-09-24 16:45:51.313 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '317855' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService6.log"}
+[2026-09-24 16:45:51.313 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '317925' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service7.log"}
+[2026-09-24 16:46:01.323 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - /home/vlsilab/Documents/jai/DAC/.tmp_vlsilab/.cmddir0/swiftJob8 is starting {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Job8.log"}
+[2026-09-24 16:46:01.323 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Simulation Monitor process '319006' is starting up on host 'cad6' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Job8.log"}
+[2026-09-24 16:46:02.024 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - ln: failed to create symbolic link '/home/vlsilab/simulation/DAC/r2rdac_tb/maestro/results/maestro/ExplorerRun.0/1/DAC_r2rdac_tb_1/netlist/exprOutputs.log': File exists
+ {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Job8.log"}
+[2026-09-24 16:46:02.024 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - ln: failed to create symbolic link '/home/vlsilab/simulation/DAC/r2rdac_tb/maestro/results/maestro/ExplorerRun.0/1/DAC_r2rdac_tb_1/netlist/amps_evaluator.log': File exists
+ {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Job8.log"}
+[2026-09-24 16:46:03.814 +0530] [INFO] [cadence.virtuoso.ade.gui] - Point completed {"history": "ExplorerRun.0", "point": 1, "testname": "DAC_r2rdac_tb_1"}
+[2026-09-24 16:46:05.815 +0530] [INFO] [cadence.virtuoso.ade.gui] - Point completed {"history": "ExplorerRun.0", "point": 2, "testname": "DAC_r2rdac_tb_1"}
+[2026-09-24 16:46:06.815 +0530] [INFO] [cadence.virtuoso.ade.gui] - Point completed {"history": "ExplorerRun.0", "point": 3, "testname": "DAC_r2rdac_tb_1"}
+[2026-09-24 16:46:06.815 +0530] [EVENT] [cadence.virtuoso.ade.gui] - HistoryFinished {"history": "ExplorerRun.0", "event": "HistoryFinished", "EventSource": "ADE GUI", "HistoryName": "ExplorerRun.0"}
+[2026-09-24 16:47:15.282 +0530] [WARN] [cadence.virtuoso.ade.gui] - Following tests do not have any outputs selected for plotting:
+DAC_r2rdac_tb_1
+ {"history": "ExplorerRun.0", "detailed_message": "", "message_id": "EXPLORER-1617"}
+[2026-09-24 16:47:15.282 +0530] [EVENT] [cadence.virtuoso.ade.gui] - NewHistoryCreated {"history": "ExplorerRun.0", "event": "NewHistoryCreated", "EventSource": "ADE GUI", "HistoryName": "ExplorerRun.0", "WorkDir": "/home/vlsilab/Documents/jai/DAC", "HistorySimDir": "/home/vlsilab/simulation/DAC/r2rdac_tb/maestro/results/maestro/ExplorerRun.0", "HistoryResultsDir": "/home/vlsilab/Documents/jai/DAC/DAC/r2rdac_tb/maestro/results/maestro"}
+[2026-09-24 16:47:15.282 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - History Setup {"hostname": "cad6", "processid": 27906, "history": "ExplorerRun.0", "logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/virtuoso_ade_debug.log", "jobmode": "LSCS", "runmode": "Single Run, Sweeps and Corners", "lib": "DAC", "cell": "r2rdac_tb", "view": "maestro", "icversion": "sub-version  IC6.1.8-64b.500.29 ", "runstart": "Thu Sep 24 16:47:15 2026\n", "timezonelocal": "+000", "spectreversion": "unknown", "jobpolicyname": "", "maxjobs": "unknown", "ncjobpolicyname": "", "ncmaxjobs": "unknown", "numtests": "1", "runfinished": "unknown", "runelapsed": "-1", "numcorners": "3"}
+[2026-09-24 16:47:15.282 +0530] [INFO] [cadence.virtuoso.ade.pointevaluator] - Submitted {"history": "ExplorerRun.0"}
+[2026-09-24 16:47:18.803 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - ln: failed to create symbolic link '/home/vlsilab/simulation/DAC/r2rdac_tb/maestro/results/maestro/ExplorerRun.0/1/DAC_r2rdac_tb_1/netlist/exprOutputs.log': File exists
+ {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Job8.log"}
+[2026-09-24 16:47:18.803 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - ln: failed to create symbolic link '/home/vlsilab/simulation/DAC/r2rdac_tb/maestro/results/maestro/ExplorerRun.0/1/DAC_r2rdac_tb_1/netlist/amps_evaluator.log': File exists
+ {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Job8.log"}
+[2026-09-24 16:47:20.814 +0530] [INFO] [cadence.virtuoso.ade.gui] - Point completed {"history": "ExplorerRun.0", "point": 1, "testname": "DAC_r2rdac_tb_1"}
+[2026-09-24 16:47:21.814 +0530] [INFO] [cadence.virtuoso.ade.gui] - Point completed {"history": "ExplorerRun.0", "point": 2, "testname": "DAC_r2rdac_tb_1"}
+[2026-09-24 16:47:22.813 +0530] [INFO] [cadence.virtuoso.ade.gui] - Point completed {"history": "ExplorerRun.0", "point": 3, "testname": "DAC_r2rdac_tb_1"}
+[2026-09-24 16:47:22.813 +0530] [EVENT] [cadence.virtuoso.ade.gui] - HistoryFinished {"history": "ExplorerRun.0", "event": "HistoryFinished", "EventSource": "ADE GUI", "HistoryName": "ExplorerRun.0"}
+[2026-09-24 16:52:21.705 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Netlist Service '317925' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/Service7.log"}
+[2026-09-24 17:02:27.225 +0530] [PROCESS] [cadence.virtuoso.ade.gui] - Logging Service '317855' stopped with exit code '0' {"logfile": "/home/vlsilab/Documents/jai/DAC/logs_vlsilab/logs0/LoggingService6.log"}

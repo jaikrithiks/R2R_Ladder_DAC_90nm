@@ -1,0 +1,4 @@
+!<alc> v1 18
+0    7    0 diffamp layout DAC
+0    6    0 csamp layout DAC
+0    8    0 opamp layout DAC

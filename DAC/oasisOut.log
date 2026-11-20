@@ -1,0 +1,66 @@
+********************************************************************************
+Product   : Virtuoso(R) XOasis Out
+Program   : @(#)$CDS: oasisout version 6.1.8-64b 11/15/2022 19:26 (cpgbld01) $
+          : sub-version  IC6.1.8-64b.500.29 
+Started at: 24-Sep-2026  13:14:06
+User Name : vlsilab
+Host Name : cad6
+Directory : /home/vlsilab/Documents/jai/DAC
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+INFO (XOASIS-217): Reading the layer map file, /home/install/FOUNDRY/analog/90nm/libs.oa22/gpdk090/gpdk090.layermap
+
+Summary of Options :
+library                                 DAC
+oasisFile                               r2rdac.gds
+logFile                                 oasisOut.log
+techLib                                 gpdk090
+topCell                                 r2rdac
+view                                    layout
+
+INFO (XOASIS-81072): Translating stdVia master gpdk090/M2_M1v as "M2_M1v_CDNS_790235846640".
+INFO (XOASIS-81072): Translating stdVia master gpdk090/M2_M1v as "M2_M1v_CDNS_790235846641".
+INFO (XOASIS-81072): Translating stdVia master gpdk090/M2_M1v as "M2_M1v_CDNS_790235846642".
+INFO (XOASIS-81072): Translating stdVia master gpdk090/M1_POv as "M1_POv_CDNS_790235846643".
+INFO (XOASIS-81072): Translating stdVia master gpdk090/M1_POv as "M1_POv_CDNS_790235846644".
+INFO (XOASIS-81044): Translating design gpdk090/pmos1v/layout as "pmos1v_CDNS_790235846640".
+INFO (XOASIS-81044): Translating design gpdk090/nmos1v/layout as "nmos1v_CDNS_790235846641".
+INFO (XOASIS-81044): Translating design gpdk090/nmos1v/layout as "nmos1v_CDNS_790235846642".
+INFO (XOASIS-81044): Translating design DAC/diffamp/layout as "diffamp".
+WARNING (XOASIS-82025): You have not used the 'objectMap' option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow or oaMarker. Any information about these objects will not be translated into the generated oasis file. Use the 'objectMap' option to translate/preserve these objects using XOasis. For details on the 'objectMap' option, refer to the "Design Data Translator's Reference" guide for XOasis.
+INFO (XOASIS-81044): Translating design gpdk090/nmos1v/layout as "nmos1v_CDNS_790235846643".
+INFO (XOASIS-81044): Translating design gpdk090/pmos1v/layout as "pmos1v_CDNS_790235846644".
+INFO (XOASIS-81044): Translating design DAC/csamp/layout as "csamp".
+INFO (XOASIS-81044): Translating design DAC/opamp/layout as "opamp".
+INFO (XOASIS-81044): Translating design gpdk090/ressnpoly_2/layout as "ressnpoly_2_CDNS_790235846645".
+WARNING (XOASIS-81043): The layer and purpose pair 'instance:drawing' is ignored. This is because mapping is not specified for that layer-purpose pair used in the design.
+INFO (XOASIS-81044): Translating design gpdk090/ressnpoly_2/layout as "ressnpoly_2_CDNS_790235846646".
+INFO (XOASIS-81044): Translating design DAC/r2rdac/layout as "r2rdac".
+
+Summary of Objects Translated:
+	Scalar Instances:                       19
+	Array Instances:                        0
+	Polygons:                               0
+	Rectangles:                             484
+	Paths:                                  0
+	Pathsegs:                               220
+	Text:                                   6
+	Lines:                                  0
+	Dots:                                   0
+	Arcs:                                   0
+	Donuts:                                 0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Rows:                                   0
+	Markers:                                0
+	Custom Vias:                            0
+	Standard Vias                           11
+	Cells:                                  16
+
+Elapsed Time: 0.1s   User Time: 0.1s   CPU Time: 0.0s   Peak VM: 1728KB
+INFO (XOASIS-234): Translation completed. '0' error(s) and '2' warning(s) found.

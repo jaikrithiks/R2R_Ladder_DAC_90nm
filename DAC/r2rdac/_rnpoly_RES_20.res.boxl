@@ -1,0 +1,4 @@
+# 3
+segW=1.5e-06 segR=666.667 segL=0.0001 effW=1.5e-06 effL=0.0001 
+segW=1.5e-06 segR=500 segL=7.5e-05 effW=1.5e-06 effL=7.5e-05 
+$This is end of the device boxl file$

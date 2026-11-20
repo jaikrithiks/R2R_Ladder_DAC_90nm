@@ -1,0 +1,76 @@
+C ressnpoly(RES) ressnpoly(RES)
+N PLUS PLUS
+N MINUS MINUS
+N B B
+
+C nmos1v(MOS) nmos1v(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C pmos1v(MOS) pmos1v(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "csamp schematic DAC" "csamp layout DAC"
+N vin avC3
+N vbias avC2
+N vdd avC4
+N vss avT557_1
+N vout avC5
+I PM0 avD7_1
+I NM0 avD1_1
+
+C "diffamp schematic DAC" "diffamp layout DAC"
+N net2 avC2
+N net1 avC3
+N vdd avC6
+N vss avT557_1
+N v1 avC7
+N v2 avC8
+N idc avC5
+N vout avC4
+I PM1 avD7_1
+I PM0 avD7_2
+I NM3 avD1_1
+I NM2 avD1_3
+I NM1 avD1_2
+I NM0 avD1_4
+
+C "opamp schematic DAC" "opamp layout DAC"
+N net1 avC7
+N vdd avC5
+N vss avT557_1
+N idc avC2
+N vin avC1
+N vnin avC4
+I I0 I0
+I I1 I1
+
+C "r2rdac schematic DAC" "r2rdac layout DAC"
+N net1 avC13
+N net8 avC12
+N net10 avC11
+N net12 avC10
+N vdd vdd
+N vss vss
+N idc idc
+N vout vout
+N d0 d0
+N d1 d1
+N d2 d2
+N d3 d3
+N gnd! gnd!
+I I0 I0
+I R0 R0/avD20_1
+I R7 R7/avD20_1
+I R6 R6/avD20_1
+I R5 R5/avD20_1
+I R4 R4/avD20_1
+I R3 R3/avD20_1
+I R2 R2/avD20_1
+I R1 R1/avD20_1
+

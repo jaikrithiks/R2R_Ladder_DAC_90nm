@@ -1,0 +1,49 @@
+avParameters(
+	?cellName "r2rdac"
+	?viewName "layout"
+	?inputLayout ( "DFII" "DAC" )
+	?cdslib "/home/vlsilab/Documents/jai/DAC/cds.lib"
+	?runName "r2rdac"
+	?workingDirectory "/home/vlsilab/Documents/jai/DAC"
+	?techRuleSet ( "default" )
+	?techLib "/home/install/FOUNDRY/analog/90nm/assura_tech.lib"
+	?technology "gpdk090"
+
+)
+rcxParameters(
+	?capCouplingFactor 1.0
+	?capGround "vss"
+	?mFactorR "infinite"
+	?arrayViasSpacing "auto"
+	?macroCellsType "default"
+	?maxFractureLength "infinite"
+	?fractureLengthUnits "MICRONS"
+	?maxMergedViaSize "auto"
+	?netNameSpace "layout"
+	?mergeParallelR nil
+	?minR 0.001
+	?lvsSource "assura"
+	?capacitor "pcapacitor"
+	?capPropName "c"
+	?checkCellView t
+	?capModels "no"
+	?parasiticCapModels "no"
+	?parasiticResModels "comment"
+	?resModels "no"
+	?resistor "presistor"
+	?resPropName "r"
+	?outputFormat "dfii"
+	?lvsExtractedCellView nil
+	?extractedView "av_extracted"
+	?runName "r2rdac"
+	?tempdir "/home/vlsilab/Documents/jai/DAC/r2rdac/rcx_temp"
+	?rcxSetupDir ( "/home/install/FOUNDRY/analog/90nm/./assura/rcx" )
+	?temperature ( 25.0 )
+	?type "full"
+	?extract "both"
+	?capExtractMode "decoupled"
+
+)
+(avRCX)
+
+

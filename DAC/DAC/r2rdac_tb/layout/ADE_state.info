@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("DAC" "r2rdac_tb" "config" "spectre")
+descriptionText = "None"

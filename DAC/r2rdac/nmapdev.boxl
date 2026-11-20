@@ -1,0 +1,4 @@
+# 3
+calculatedParam="Length" effL="300u" r="2K" segL=0.0001 segR="666.667" segments=3 ssegs=3 
+calculatedParam="Length" effL="150u" r="1K" segL=7.5e-05 segR="500" segments=2 ssegs=2 
+$This is end of the device boxl file$

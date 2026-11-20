@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'csamp layout DAC':
+  info: Assign pin label "vbias" at (0.2600, 1.9000) to layer `Metal1_p'.
+  info: Assign pin label "vss" at (3.7500, 0.1600) to layer `Metal1_p'.
+  info: Assign pin label "vin" at (0.2600, 5.5000) to layer `Metal1_p'.
+  info: Assign pin label "vout" at (7.2400, 3.7000) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (3.7500, 7.2400) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

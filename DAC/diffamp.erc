@@ -1,0 +1,13 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'diffamp layout DAC':
+  info: Assign pin label "idc" at (0.0600, 8.6750) to layer `Metal1_p'.
+  info: Assign pin label "v1" at (0.0600, 26.0250) to layer `Metal1_p'.
+  info: Assign pin label "vss" at (23.4500, 10.2600) to layer `Metal1_p'.
+  info: Assign pin label "v2" at (39.0400, 8.6750) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (19.5500, 34.6400) to layer `Metal1_p'.
+  info: Assign pin label "vout" at (39.0400, 26.0250) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

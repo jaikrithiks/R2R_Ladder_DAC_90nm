@@ -1,0 +1,14 @@
+*WARNING* Multiple label discarded: "vss" at (3.7500, 0.1600) and "vbias" on net C1.
+*WARNING* Multiple label discarded: "vdd" at (3.7500, 7.2400) and "vin" on net C2.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'csamp layout DAC'.
+*WARNING* Multiple label discarded: "vss" at (3.7500, 0.1600) and "vbias" on net C1.
+*WARNING* Multiple label discarded: "vdd" at (3.7500, 7.2400) and "vin" on net C2.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'csamp layout DAC'.
+*WARNING* Multiple label discarded: "vss" at (3.7500, 0.1600) and "vbias" on net C1.
+*WARNING* Multiple label discarded: "vdd" at (3.7500, 7.2400) and "vin" on net C2.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'csamp layout DAC'.
+*WARNING* Multiple label discarded: "vss" at (3.7500, 0.1600) and "vbias" on net C1.
+*WARNING* Multiple label discarded: "vdd" at (3.7500, 7.2400) and "vin" on net C2.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'csamp layout DAC'.
+*WARNING* Multiple label discarded: "vss" at (19.5500, 0.0600) and "idc" on net C1.
+*WARNING* 1 net(s) with multi-label warning  found in cell 'diffamp layout DAC'.
